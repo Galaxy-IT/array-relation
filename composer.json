@@ -1,0 +1,21 @@
+{
+    "name": "galaxy-it/array-relation",
+    "type": "library",
+    "require": {
+        "laravel/framework": "*",
+        "php": "^7.4|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GalaxyIt\\ArrayRelation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Developer",
+            "email": "developer@galaxy-it.net"
+        }
+    ],
+    "minimum-stability": "dev"
+}
